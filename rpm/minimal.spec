@@ -6,7 +6,7 @@ License:       GPLv3
 URL:           http://git.sailfishos.org/
 Source0:       %{name}-%{version}.tgz
 Source1:       cargo.tgz
-BuildRequires: cargo rust-std-static-armv7-unknown-linux-gnueabihf
+BuildRequires: cargo
 
 %description
 %{summary}
